@@ -11,3 +11,6 @@ modeToggle.addEventListener("click", () => {
     }
 });
 
+function peringatannav(){
+    alert("menu akan di tambahkan nanti")
+}
